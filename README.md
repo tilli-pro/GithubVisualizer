@@ -11,9 +11,6 @@
 ![Maximum API Level](https://img.shields.io/badge/Max%20API%20Level-29-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dheerajkotwani/GithubVisualizer)
 
-
-<a href='https://play.google.com/store/apps/details?id=project.dheeraj.githubvisualizer'><img align='center' height='85' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'></a>
-
 ## 🚀 Features
 - Explore all Feeds at one place.
 - Get list for latest notification.
