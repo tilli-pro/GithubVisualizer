@@ -2,7 +2,7 @@
 
 # Github Visualizer Challenge
 
-[https://docs.github.com/en/rest?apiVersion=2022-11-28](Github REST API Documentation)
+[Github REST API Documentation](https://docs.github.com/en/rest?apiVersion=2022-11-28)
 
 - [ ] Build and run the original Github Visualizer application
 - [ ] Add code to interface with the Github API to pull branch information
