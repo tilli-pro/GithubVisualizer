@@ -1,6 +1,17 @@
 ![](./screenshots/Github-Visualizer-App.png)
 
-# Github Visualizer
+# Gituhb Visualizer Challenge
+
+[https://docs.github.com/en/rest?apiVersion=2022-11-28](Github REST API Documentation)
+
+- [ ] Build and run the original Github Visualizer application
+- [ ] Add code to interface with the Github API to pull branch information
+- [ ] Add code to visualize the default branch for a repo in its list activity view
+- [ ] Add code to change the branch in a repo content's view
+- [ ] Add code to fetch contents for the currently selected branch
+- [ ] Build and run the new feature on the Github Visualizer app
+
+## Github Visualizer
 ### 📲 Android Application to track any user activity on Github built using the Github Developers Api. A sample application to demonstrate how to use Jetpack Architecture Components in an Android Application following the Clean MVVM Architecture concepts. 
 
 [![License](https://img.shields.io/badge/license-MIT-%2397ca00.svg)](https://github.com/dheerajkotwani/GithubVisualizer/blob/master/LICENSE.txt)
