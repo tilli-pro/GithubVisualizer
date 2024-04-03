@@ -1,6 +1,6 @@
 ![](./screenshots/Github-Visualizer-App.png)
 
-# Gituhb Visualizer Challenge
+# Github Visualizer Challenge
 
 [https://docs.github.com/en/rest?apiVersion=2022-11-28](Github REST API Documentation)
 
